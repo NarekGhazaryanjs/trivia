@@ -24,7 +24,7 @@ Trivia is a game where the player is asked questions about interesting but unimp
 > Clone the repository.
 
 ```bash
-git clone https://github.com/ednoram/trivia.git
+git clone https://github.com/NarekGhazaryanjs/trivia.git
 ```
 
 > Run the following commands.
@@ -33,12 +33,4 @@ git clone https://github.com/ednoram/trivia.git
 npm install && npm run dev
 ```
 
-## Contact
-
-Edward Noramirian
-
-> GitHub: [@ednoram](https://github.com/ednoram)
-
-> LinkedIn: [Edward Noramirian](https://www.linkedin.com/in/edward-noramirian)
-
-> Email: e.noramirian@gmail.com
+ 
